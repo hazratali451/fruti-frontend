@@ -1,0 +1,14 @@
+{
+  "paymentID": "TR0011MPsaM3X1705077760755",
+  "trxID": "BAC70GIT13",
+  "transactionStatus": "Completed",
+  "amount": "333",
+  "currency": "BDT",
+  "intent": "sale",
+  "paymentExecuteTime": "2024-01-12T22:42:59:081 GMT+0600",
+  "merchantInvoiceNumber": "120147790",
+  "payerReference": "120147790",
+  "customerMsisdn": "01619777282",
+  "statusCode": "0000",
+  "statusMessage": "Successful"
+}

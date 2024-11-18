@@ -1,0 +1,225 @@
+[
+  { "name": "adabor", "postal_code": "1207", "bn_name": "আদাবর" },
+  { "name": "agargaon", "postal_code": "1207", "bn_name": "আগারগাঁও" },
+  { "name": "airport", "postal_code": "1230", "bn_name": "এয়ারপোর্ট" },
+  { "name": "asadgate", "postal_code": "1207", "bn_name": "আসাদগেট" },
+  { "name": "azampur", "postal_code": "1230", "bn_name": "আজমপুর" },
+  { "name": "azimpur", "postal_code": "1205", "bn_name": "আজিমপুর" },
+  { "name": "babu bazaar", "postal_code": "1211", "bn_name": "বাবু বাজার" },
+  { "name": "badda", "postal_code": "1212", "bn_name": "বাড্ডা" },
+  { "name": "bailey road", "postal_code": "1217", "bn_name": "বেইলি রোড" },
+  { "name": "banani", "postal_code": "1213", "bn_name": "বনানী" },
+  { "name": "bangabhaban", "postal_code": "1222", "bn_name": "বঙ্গভবন" },
+  { "name": "banglamotor", "postal_code": "1217", "bn_name": "বাংলামোটর" },
+  { "name": "bangshal", "postal_code": "1211", "bn_name": "বংশাল" },
+  { "name": "baridhara", "postal_code": "1206", "bn_name": "বারিধারা" },
+  {
+    "name": "baridhara DOHS",
+    "postal_code": "1206",
+    "bn_name": "বারিধারা ডিওএইচএস"
+  },
+  { "name": "basabo", "postal_code": "1214", "bn_name": "বাসাবো" },
+  { "name": "bashundhara", "postal_code": "1229", "bn_name": "বসুন্ধরা" },
+  { "name": "begum bazaar", "postal_code": "1211", "bn_name": "বেগম বাজার" },
+  { "name": "bijoy nagar", "postal_code": "1222", "bn_name": "বিজয় নগর" },
+  { "name": "collage gate", "postal_code": "1207", "bn_name": "কলেজ গেট" },
+  { "name": "culvert road", "postal_code": "1222", "bn_name": "কালভার্ট রোড" },
+  {
+    "name": "dhaka cantonment",
+    "postal_code": "1206",
+    "bn_name": "ঢাকা ক্যান্টনমেন্ট"
+  },
+  { "name": "dhaka GPO", "postal_code": "1000", "bn_name": "ঢাকা জিপিও" },
+  {
+    "name": "dhaka polytechnic",
+    "postal_code": "1208",
+    "bn_name": "ঢাকা পলিটেকনিক"
+  },
+  {
+    "name": "dhaka sadar HO",
+    "postal_code": "1100",
+    "bn_name": "ঢাকা সদর হেড অফিস"
+  },
+  { "name": "dhanmondi", "postal_code": "1209", "bn_name": "ধানমন্ডি" },
+  { "name": "dhanmondi 15", "postal_code": "1209", "bn_name": "ধানমন্ডি ১৫" },
+  { "name": "dhanmondi 27", "postal_code": "1209", "bn_name": "ধানমন্ডি ২৭" },
+  { "name": "dilkusha", "postal_code": "1223", "bn_name": "দিলকুশা" },
+  {
+    "name": "elephant road",
+    "postal_code": "1217",
+    "bn_name": "এলিফ্যান্ট রোড"
+  },
+  { "name": "fakirapool", "postal_code": "1222", "bn_name": "ফকিরাপুল" },
+  { "name": "gendaria", "postal_code": "1204", "bn_name": "গেন্ডারিয়া" },
+  { "name": "goalbag", "postal_code": "1100", "bn_name": "গোয়ালবাগ" },
+  { "name": "gopibag", "postal_code": "1214", "bn_name": "গোপীবাগ" },
+  { "name": "goran", "postal_code": "1219", "bn_name": "গোরান" },
+  { "name": "gulshan", "postal_code": "1212", "bn_name": "গুলশান" },
+  {
+    "name": "gulshan avenue",
+    "postal_code": "1212",
+    "bn_name": "গুলশান এভিনিউ"
+  },
+  { "name": "gulshan 1", "postal_code": "1212", "bn_name": "গুলশান-১" },
+  { "name": "gulshan 2", "postal_code": "1212", "bn_name": "গুলশান-২" },
+  { "name": "hatirpool", "postal_code": "1205", "bn_name": "হাতিরপুল" },
+  { "name": "ibrahimpur", "postal_code": "1216", "bn_name": "ইব্রাহিমপুর" },
+  { "name": "jatrabari", "postal_code": "1232", "bn_name": "যাত্রাবাড়ী" },
+  { "name": "jhigatola", "postal_code": "1209", "bn_name": "ঝিগাতোলা" },
+  { "name": "jurain", "postal_code": "1232", "bn_name": "জুরাইন" },
+  {
+    "name": "kachukhet bazar",
+    "postal_code": "1206",
+    "bn_name": "কাচুখেত বাজার"
+  },
+  {
+    "name": "kakrail VIP Road",
+    "postal_code": "1217",
+    "bn_name": "কাকরাইল ভিআইপি রোড"
+  },
+  { "name": "kalabagan", "postal_code": "1209", "bn_name": "কলাবাগান" },
+  { "name": "kalshi", "postal_code": "1216", "bn_name": "কালশী" },
+  { "name": "kalyanpur", "postal_code": "1207", "bn_name": "কল্যাণপুর" },
+  { "name": "kamalapur", "postal_code": "1217", "bn_name": "কমলাপুর" },
+  { "name": "kamalbag", "postal_code": "1211", "bn_name": "কমলবাগ" },
+  { "name": "katabon", "postal_code": "1205", "bn_name": "কাটাবন" },
+  { "name": "kawran-bazar", "postal_code": "1217", "bn_name": "কাওড়ান বাজার" },
+  { "name": "kazipara", "postal_code": "1216", "bn_name": "কাজীপাড়া" },
+  { "name": "khilgaon", "postal_code": "1219", "bn_name": "খিলগাঁও" },
+  {
+    "name": "khilgoan taltola",
+    "postal_code": "1219",
+    "bn_name": "খিলগাঁও তালতলা"
+  },
+  { "name": "khilkhet", "postal_code": "1229", "bn_name": "খিলক্ষেত" },
+  { "name": "lalbagh", "postal_code": "1211", "bn_name": "লালবাগ" },
+  { "name": "lalmatia", "postal_code": "1209", "bn_name": "লালমাটিয়া" },
+  { "name": "malibag", "postal_code": "1217", "bn_name": "মালিবাগ" },
+  { "name": "malitola", "postal_code": "1211", "bn_name": "মালিটোলা" },
+  {
+    "name": "mirpur cantonment",
+    "postal_code": "1216",
+    "bn_name": "মিরপুর ক্যান্টনমেন্ট"
+  },
+  {
+    "name": "mirpur DOHS",
+    "postal_code": "1216",
+    "bn_name": "মিরপুর ডিওএইচএস"
+  },
+  { "name": "mogbazaar", "postal_code": "1217", "bn_name": "মগবাজার" },
+  { "name": "mohakhali", "postal_code": "1206", "bn_name": "মহাখালী" },
+  {
+    "name": "mohammadi housing LTD",
+    "postal_code": "1207",
+    "bn_name": "মোহাম্মদী হাউজিং লিমিটেড"
+  },
+  { "name": "mohammadpur", "postal_code": "1207", "bn_name": "মোহাম্মদপুর" },
+  { "name": "motijheel", "postal_code": "1223", "bn_name": "মতিঝিল" },
+  { "name": "mouchak", "postal_code": "1217", "bn_name": "মৌচাক" },
+  { "name": "narinda", "postal_code": "1100", "bn_name": "নারিন্দা" },
+  { "name": "nawabpur", "postal_code": "1211", "bn_name": "নবাবপুর" },
+  { "name": "naya bazaar", "postal_code": "1211", "bn_name": "নয়া বাজার" },
+  { "name": "naya paltan", "postal_code": "1222", "bn_name": "নয়া পাল্টন" },
+  { "name": "nazira bazaar", "postal_code": "1211", "bn_name": "নাজিরা বাজার" },
+  { "name": "new-market", "postal_code": "1205", "bn_name": "নিউ মার্কেট" },
+  { "name": "niketon", "postal_code": "1212", "bn_name": "নিকেতন" },
+  { "name": "nikunja", "postal_code": "1230", "bn_name": "নিকুঞ্জ" },
+  { "name": "pallabi", "postal_code": "1216", "bn_name": "পল্লবী" },
+  { "name": "panthopath", "postal_code": "1217", "bn_name": "পাঁথপথ" },
+  {
+    "name": "PC culture housing",
+    "postal_code": "1207",
+    "bn_name": "পিসি কালচার হাউজিং"
+  },
+  { "name": "posta", "postal_code": "1211", "bn_name": "পোস্টা" },
+  {
+    "name": "purana paltan",
+    "postal_code": "1222",
+    "bn_name": "পুরানা পল্টন"
+  },
+  { "name": "rajarbagh", "postal_code": "1000", "bn_name": "রাজারবাগ" },
+  { "name": "ramna", "postal_code": "1217", "bn_name": "রমনা" },
+  { "name": "rampura", "postal_code": "1212", "bn_name": "রামপুরা" },
+  { "name": "ring road", "postal_code": "1207", "bn_name": "রিং রোড" },
+  {
+    "name": "senpara parbota",
+    "postal_code": "1216",
+    "bn_name": "সেনপারা পর্বতা"
+  },
+  { "name": "shahbagh", "postal_code": "1217", "bn_name": "শাহবাগ" },
+  { "name": "shahid nagar", "postal_code": "1211", "bn_name": "শহীদ নগর" },
+  { "name": "shahjahanpur", "postal_code": "1214", "bn_name": "শাহজাহানপুর" },
+  { "name": "shamibag", "postal_code": "1203", "bn_name": "স্বামীবাগ" },
+  { "name": "shangkar", "postal_code": "1209", "bn_name": "শংকর" },
+  { "name": "shangshad bhaban", "postal_code": "1225", "bn_name": "সংসদ ভবন" },
+  { "name": "shanti nagar", "postal_code": "1217", "bn_name": "শান্তি নগর" },
+  { "name": "shegunbagicha", "postal_code": "1000", "bn_name": "সেগুনবাগিচা" },
+  { "name": "shewrapara", "postal_code": "1216", "bn_name": "শেওড়াপাড়া" },
+  { "name": "shia mosjid", "postal_code": "1207", "bn_name": "শিয়া মসজিদ" },
+  { "name": "shiddheswari", "postal_code": "1217", "bn_name": "শিদ্ধেশ্বরী" },
+  { "name": "shonir akhra", "postal_code": "1232", "bn_name": "শনির আখড়া" },
+  { "name": "shyamoli", "postal_code": "1207", "bn_name": "শ্যামলী" },
+  { "name": "shyampur", "postal_code": "1232", "bn_name": "শ্যামপুর" },
+  {
+    "name": "siddique bazaar",
+    "postal_code": "1211",
+    "bn_name": "সিদ্দিক বাজার"
+  },
+  { "name": "sukrabad", "postal_code": "1209", "bn_name": "সুকরাবাদ" },
+  {
+    "name": "t&t colony",
+    "postal_code": "1223",
+    "bn_name": "টি এন্ড টি কলোনি"
+  },
+  { "name": "taltola", "postal_code": "1207", "bn_name": "তালতলা" },
+  { "name": "tati bazaar", "postal_code": "1211", "bn_name": "তাতি বাজার" },
+  { "name": "technical", "postal_code": "1207", "bn_name": "টেকনিক্যাল" },
+  { "name": "tejgaon", "postal_code": "1215", "bn_name": "তেজগাঁও" },
+  {
+    "name": "thatari bazaar",
+    "postal_code": "1211",
+    "bn_name": "থাটারি বাজার"
+  },
+  { "name": "tikatuli", "postal_code": "1203", "bn_name": "টিকাটুলি" },
+  { "name": "topkhana road", "postal_code": "1222", "bn_name": "টপখানা রোড" },
+  {
+    "name": "uttara model town",
+    "postal_code": "1230",
+    "bn_name": "উত্তরা মডেল টাউন"
+  },
+  { "name": "wari town", "postal_code": "1203", "bn_name": "ওয়ারী টাউন" },
+  { "name": "demra", "postal_code": "1360", "bn_name": "ডেমরা" },
+  { "name": "dhamrai", "postal_code": "1350", "bn_name": "ধামরাই" },
+  { "name": "mirpur bazar", "postal_code": "1218", "bn_name": "মিরপুর বাজার" },
+  { "name": "banani", "postal_code": "1213", "bn_name": "বানানী" },
+  { "name": "banasree", "postal_code": "1219", "bn_name": "বনশ্রী" },
+  { "name": "chawk bazar", "postal_code": "1000", "bn_name": "চক বাজার" },
+  { "name": "dakshinkhan", "postal_code": "1000", "bn_name": "দক্ষিণখান" },
+  { "name": "darus salam", "postal_code": "1000", "bn_name": "দারুস সালাম" },
+  { "name": "farmgate", "postal_code": "1000", "bn_name": "ফার্মগেট" },
+  { "name": "hazaribagh", "postal_code": "1000", "bn_name": "হাজারিবাগ" },
+  { "name": "kuril", "postal_code": "1000", "bn_name": "কুড়িল" },
+  {
+    "name": "mirpur",
+    "postal_code": "1216",
+    "bn_name": "মিরপুর"
+  },
+  {
+    "name": "monipuri para",
+    "postal_code": "1000",
+    "bn_name": "মনিপুরী পাড়া"
+  },
+  { "name": "palton", "postal_code": "1000", "bn_name": "পল্টন" },
+  { "name": "sabujbagh", "postal_code": "1000", "bn_name": "সবুজবাগ" },
+  {
+    "name": "sher-e-bangla nagar",
+    "postal_code": "1000",
+    "bn_name": "শের-ই-বাংলা নগর"
+  },
+  { "name": "sutrapur", "postal_code": "1000", "bn_name": "সূত্রাপুর" },
+  {
+    "name": "tejgaon industrial area",
+    "postal_code": "1215",
+    "bn_name": "তেজগাঁও শিল্প এলাকা"
+  }
+]
